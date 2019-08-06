@@ -1,0 +1,12 @@
+header {
+    background: #ccc;
+    color: red;
+    font-size: 3em;
+    font-weight: bold;
+    height: 3em;
+    line-height: 3em;
+}
+
+main {
+    font-size: 1.5em;
+}
