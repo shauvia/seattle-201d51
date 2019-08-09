@@ -5,7 +5,9 @@
 Today in lab you will fork and clone a GitHub repo, and then create solutions to some code problems such that your solutions pass the included tests.
 
 ## Repository
-https://github.com/codefellows/seattle-201d49-lab05a
+
+https://github.com/codefellows/seattle-201d51-lab-05
+
 * Fork This Repository
 * Clone it to your computer
 * Create a new branch
