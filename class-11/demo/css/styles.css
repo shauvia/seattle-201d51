@@ -1,0 +1,65 @@
+body > header {
+    background: #111;
+    color: ivory;
+    height: 75px;
+    line-height: 75px;
+}
+
+h1 {
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+body > footer {
+    background: #ccc;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
+
+body > main {
+    margin: 1.5em;
+}
+
+div, figure {
+    margin: 1em;
+}
+
+.imageContainer {
+    background: url(/assets/images/baldy1.bmp) no-repeat;
+    background-size: cover;
+    border: 1px solid grey;
+    height: 200px;
+    position: relative;
+    width: 200px;
+}
+
+.imageContainer h2 {
+    background: #ccc;
+    bottom: 0;
+    font-weight: bold;
+    left: 0;
+    line-height: 2em;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+
+figure {
+    border: 1px solid grey;
+    max-width: 200px;
+}
+
+figure img {
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    min-width: 100%;
+}
+
+figcaption {
+    background: #ccc;
+    font-weight: bold;
+    line-height: 2em;
+    text-align: center;
+}
