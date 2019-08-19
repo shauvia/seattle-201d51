@@ -1,6 +1,7 @@
 # Class 11: Review of Block 1 and 2
 
 "You now have all the tools to do all the things" *(mostly)*
+
 - [MDN](https://developer.mozilla.org/en-US/docs/Web)
 - [W3Schools](https://www.w3schools.com/)
 - [CSS Tricks](https://css-tricks.com/)
