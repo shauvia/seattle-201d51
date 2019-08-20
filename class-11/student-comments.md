@@ -2,37 +2,35 @@
 
 ### WHICH ASPECTS OF THE TRAINING DID YOU FIND THE MOST HELPFUL DURING THIS WEEK?
 
-- Comment 1 (make sure to make them anonymous!)
-- Code Review
-- Seeing others' code and working through it
-- Partners and Groups (sucks but great practice)
-- Diagramming
-- Whiteboarding
-- Slack Camaraderie
-- 1:1
-- Career Prep!
+- Brian is a rock star
+  - More specifically, his style and approach are different and quite helpful
+- Lena's breakdown was awesome
+- Generally, different instructors were a good thing
+- Digging deeper into "The Formula"
+- Some off topic discussions around career paths were great
+- The way the TAs help without helping
+- Chocolate Pizza -- working to a mock was finally what we wanted. Some people might actually like CSS now ...
 
 ### WHICH ASPECTS OF THE TRAINING DID YOU FIND THE LEAST HELPFUL DURING THIS WEEK?
 
-- CSS Readings
-- PPH + Lab Time
-  - Fridays are typically configured to accommodate
-- Want more TAs (running them ragged)
-- Test format / advice on retakes
-- Not having a full hour for lunch
-- Wish I had more time to explore stuff!
+- Applying things before we learn them can be disheartening
+  - It's by design: Hear It. See It. Use It. 
+  - Leads to recollection and recognition, which leads to DNA
+- John can be chaotic and rushed
+- Maybe too much time on code review
+- Sleep suffers because of so much work.
+- So much work and the overall pace
 - Journals
-- Readings - time to do them correctly & the format of comments
 
 ### DO YOU HAVE ANY QUESTIONS, SUGGESTIONS, OR CONCERNS?
 
-- Move troubleshooting and debugging to week 1
-- Vending Machine
-  - OTW
-- HVAC has been wonky
-- Standing desks 
-- Clean the White Board Tables
+- Better or more thorough examples prior to lecture
+  - Be careful of what you wish for ...
+- "Wokeness" (or lack, thereof) of CF Curriculum and Environment
+
 
 ### Other Notes
-- Trusting the process
-- Helpful to hear from other "grads"
+- A lot of you moved from **WTF** on Mon and Tue to **Ok...** on Wed and **I got this** by Thursday
+  - Stacked Learning
+  - Different Voices filling gaps
+  - Comfort in your uncomfortableness
