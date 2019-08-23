@@ -3,6 +3,34 @@
 
 ## Welcome to Project Week!
 
+### Teams
+
+| 1              | 2           | 3      | 4       |
+|----------------|-------------|--------|---------|
+| Chris Cummings | Kyungrae    | Steve  | Rachel  |
+| Avery          | James       | Karina | Darrik  |
+| Cory           | Chris Ceder | Sean   | Enrique |
+| David          | Jonathan    | Ethan  | Biniam  |
+|                |             |        |         |
+
+
+### Project Ideas
+
+* Train Game w/tracks, switches, obstacles
+* Budget Tracker
+* Login System (401 goes deep)
+* Acid Land (is this like flappy birds or mario?)
+* CSS Game like the froggy
+* Simon
+* Walking / Biking Route Calculator
+* Shape Shifter Game (square peg in a round hole)
+* Zelda type of game
+* Matching Game
+* Helicopter Game
+* Fitness Game (goals) Suggestion: Deck of Cards Workout
+* PONG
+* Talk to the city.  GPS, issue picker, sends to the right dept.
+
 ### Requirements
 
 * HTML, CSS, JS
