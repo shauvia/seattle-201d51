@@ -1,4 +1,3 @@
-![CF](https://i.imgur.com/7v5ASc8.png)
 # Code Fellows Project Guidelines
 
 ## Welcome to Project Week!
