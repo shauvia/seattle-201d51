@@ -8,7 +8,7 @@
 |----------------|-------------|--------|---------|
 | Chris Cummings | Kyungrae    | Steve  | Rachel  |
 | Avery          | James       | Karina | Darrik  |
-| Cory           | Chris Ceder | Sean   | Enrique |
+| Corey          | Chris Ceder | Sean   | Enrique |
 | David          | Jonathan    | Ethan  | Biniam  |
 |                |             |        |         |
 
