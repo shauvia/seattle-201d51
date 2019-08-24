@@ -4,13 +4,13 @@
 
 ### Teams
 
-| 1              | 2           | 3      | 4       |
+| Funky Boiz     | Funky Town  | Funky Space Needle | 404 !Funky|
 |----------------|-------------|--------|---------|
 | Chris Cummings | Kyungrae    | Steve  | Rachel  |
 | Avery          | James       | Karina | Darrik  |
 | Corey          | Chris Ceder | Sean   | Enrique |
 | David          | Jonathan    | Ethan  | Biniam  |
-|                |             |        |         |
+| Shape Shifter  | Walk/Bike # | Civil Service Alerter | Matching Game |
 
 
 ### Project Ideas
