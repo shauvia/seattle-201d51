@@ -1,0 +1,190 @@
+// declare a variable called name and assign it a string equal to "John"
+var name = "John";
+
+// run the log method of the console object to print to the console the data type of the variable called name
+console.log( typeof name );
+
+// declare a variable called nums, assign it the value of a new array with a length of 10, filled with empty strings
+var nums = new Array(10).fill('');
+
+// declare a variable called nums, assign it with an array with the values 1,2,3,4 and 5
+var nums = [1,2,3,4,5];
+
+// declare a variable called nums, assign it with an empty array
+var nums = [];
+
+// run the log method of the console object to write to the console the data type of the variable called nums
+console.log( typeof nums );
+
+// run the log method of the console object to write to the console the returned value from the isArray method of the Array constructor with the variable called nums
+console.log( Array.isArray(nums) )
+
+// write a loop that runs 100 times. For each iteration, push the iterator into the array called nums
+for( var i=1; i<=100; i++ ) {
+  nums.push(i);
+}
+
+// Run the log method of the console object, to write to the console the length of the nums array
+console.log(nums.length);
+
+// Run the log method of the console object, to write to the console the value at index 3 of the nums array
+console.log( nums[3] );
+
+console.log('----------- OBJECTS -------------- ');
+
+// declare a variable named 'john', assign it an object with the properties: first, last, lastName and age
+var john = {
+  first: "John",
+  last: "Cokos",
+  lastName: "Cookoo",
+  age: 50
+}
+
+// use the log method of the console object to print the property of the object in the variable called john
+console.log(john.first);
+
+// declare a variable called keyword, assign the string "last"
+var keyword = "last";
+
+// use the log method of the console object to print the object john's keyword property
+console.log(john.keyword);
+
+// use the log method of the console object to print the property represented by the 'keyword' variable from the john object
+console.log(john[keyword]);  // john["last"] // Cokos
+
+// declare a variable called props, and assign it an array containing 4 strings: first, last, hairType, age.
+var props = ['first', 'last', 'hairType', 'age'];
+
+// loop over the props array, in each iteration, run the log method of the console object to print the value of the props array at index of the iterator and also the john object's property represented by that value
+for( var i = 0; i<props.length; i++) {
+  console.log( props[i],  john[props[i]]  ); // i=0 ... props[i]='john' ... john['first']
+}
+
+console.log("--------------- FUNCTIONS ------------ ");
+
+// declare a function named 'sayHi' that takes a parameter called name and run the log method of the console object to print the string of 'Hi' and the value of parameter called name
+function sayHi(name) {
+  console.log('Hi', name);
+}
+
+// declare a variable called 'screamHello' and assign it a function with a parameter called 'name'. In it, use the log method of the console object the string 'HELLO' with the return value of the toUpperCase method having been run on the name variable.
+var screamHello = function(name) {
+  console.log( 'HELLO', name.toUpperCase() );
+}
+
+// call the sayHi function with the argument 'Lyndsey'
+sayHi('Lyndsey');
+
+// call the screamHello function with the argument 'Jon'
+screamHello('Jon');
+
+
+console.log("--------------- CONSTRUCTORS ------------ ");
+
+// declare a Constructor called Person that takes a parameter called 'name' and assigns a property called fullName TO THE INSTANCE with the value of the parameter 'name'
+function Person(name) {
+  this.fullName = name;
+}
+
+// decalare a prototye method called 'sayMyName' that runs the log method of the the console to write the value of the fullName property of the Person instance turned to all uppercase
+Person.prototype.sayMyName = function() {
+  console.log( this.fullName.toUpperCase() );
+}
+
+// declare a constructor (or static) method on the Person called whisper that runs the log method of the console object to print the string 'shhhh';
+Person.whisper = function() {
+  console.log('sssshhhh');
+}
+
+// Run the sayMyName method on the Person Constructor ... it will not run
+Person.sayMyName();
+
+// declare a variable named 'john' which is an instance of the Person constructor with 'John Cokos' as the argument.
+var john = new Person('John Cokos');
+
+// with john variable (an instance of the Person constructor), call (run/fire/invoke) the sayMyName method.
+john.sayMyName();
+
+// with the john variable (an instance of the Person constructor) call the whisper method. (will not work)
+john.whisper();
+
+// Using the person constructor fire the method whisper ... this will work
+Person.whisper();
+
+
+console.log("--------------- CSS Selectors ------------ ");
+// https://www.w3schools.com/cssref/css_selectors.asp
+
+// all divs
+div
+
+// all divs with the class "car"
+div.car
+
+// anything with the class of "car"
+.car
+
+// the ID "thing" (only 1 -- firm (very) suggestion)
+#thing
+
+// spans that are direct child of div
+div > span;
+
+// spans that are within the div
+div span
+
+// spans that are southward siblings to divs
+/*
+  <div></div>
+  <span></span>
+*/
+div + span
+
+// spans that are northward siblings of divs
+/*
+  <span></span>
+  <div></div>
+*/
+div ~ span
+
+// input element where the type attribute is "text"
+// <input type="text" />
+input[type=text]
+
+// the divs that are being hovered with the mouse (:hover is a state)
+div:hover
+
+// the psuedo-element "afeter" and "before" on a div
+div:after
+div:before
+
+
+console.log("--------------- CSS Layout Properties ------------ ");
+
+// float an element to the left or right, other elements go around them, and they are removed from normal flow
+float:left;
+float: right;
+
+// stops elements within a block from floating (puts them back in flow)
+clear:both;
+
+// converts inline elements to block level elements
+display:block;
+
+// converts block and inline elements to inline-block (meaning: respect the box model)
+display:inline-block;
+
+// places an element on the screen at an exact coordinate
+position:absolute;
+position:relative;
+
+// stays there on scroll
+position:fixed;
+
+// Hide element & keeps the space
+visibility:hidden;
+
+// Hide element & collapses it
+display:none;
+
+

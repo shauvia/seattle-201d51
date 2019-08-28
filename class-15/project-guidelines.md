@@ -1,7 +1,34 @@
-![CF](https://i.imgur.com/7v5ASc8.png)
 # Code Fellows Project Guidelines
 
 ## Welcome to Project Week!
+
+### Teams
+
+| Funky Boiz     | Funky Town  | Funky Space Needle | 404 !Funky|
+|----------------|-------------|--------|---------|
+| Chris Cummings | Kyungrae    | Steve  | Rachel  |
+| Avery          | James       | Karina | Darrik  |
+| Corey          | Chris Ceder | Sean   | Enrique |
+| David          | Jonathan    | Ethan  | Biniam  |
+| Shape Shifter  | Walk/Bike # | Civil Service Alerter | Matching Game |
+
+
+### Project Ideas
+
+* Train Game w/tracks, switches, obstacles
+* Budget Tracker
+* Login System (401 goes deep)
+* Acid Land (is this like flappy birds or mario?)
+* CSS Game like the froggy
+* Simon
+* Walking / Biking Route Calculator
+* Shape Shifter Game (square peg in a round hole)
+* Zelda type of game
+* Matching Game
+* Helicopter Game
+* Fitness Game (goals) Suggestion: Deck of Cards Workout
+* PONG
+* Talk to the city.  GPS, issue picker, sends to the right dept.
 
 ### Requirements
 
